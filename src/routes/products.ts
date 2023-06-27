@@ -10,7 +10,7 @@ const products = [
     name: "lechuga",
     stock: 100,
     image:
-      "https://es.wikipedia.org/wiki/Lactuca_sativa#/media/Archivo:Romaine_lettuce.jpg",
+      "http://www.frutas-hortalizas.com/img/fruites_verdures/presentacio/53.jpg",
     description: "es una lechuga",
     images: [
       "https://es.wikipedia.org/wiki/Lactuca_sativa#/media/Archivo:Romaine_lettuce.jpg",
